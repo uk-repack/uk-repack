@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=6C63FF&random=false&width=500&lines=Hey+there!+%F0%9F%91%8B+This+is+Utkarsh...;You+can+call+me+uk+%F0%9F%A4%96;Nice+to+meet+ya!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=6C63FF&random=false&width=500&lines=Hey+there!+%F0%9F%91%8B+This+is+Utkarsh...;You+can+call+me+uk+%F0%9F%98%89;Nice+to+meet+ya!+%E2%9C%A8)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
